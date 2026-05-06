@@ -13,7 +13,7 @@ productos = {
 
 @app.get("/")
 def root():
-    return {"mensaje":"API Funcionando"}
+    return {"mensaje": "API Funcionando"}
 
 
 @app.get("/productos")
