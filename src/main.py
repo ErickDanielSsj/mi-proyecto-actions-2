@@ -5,9 +5,9 @@ app = FastAPI()
 # base de dartos falsa en memoria
 
 productos = {
-    1: {"id":1, "nombre":"Laptop", "precio":999.99},
-    2: {"id":2, "nombre":"Mouse", "precio":29.99},
-    3: {"id":3, "nombre":"Teclado", "precio":49.99},
+    1: {"id": 1, "nombre": "Laptop", "precio": 999.99},
+    2: {"id": 2, "nombre": "Mouse", "precio": 29.99},
+    3: {"id": 3, "nombre": "Teclado", "precio": 49.99},
 }
 
 
